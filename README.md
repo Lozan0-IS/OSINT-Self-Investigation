@@ -9,3 +9,8 @@ Se utilizaron operadores avanzados de Google para identificar información públ
 ![OSINT Framework](02_OSINTFramework_BancoPopular.png)
 
 Se utilizó una herramienta del OSINT Framework para analizar información pública del dominio del Banco Popular Dominicano, demostrando el uso de fuentes abiertas para la recopilación de datos.
+
+## Google Image Search – Banco Popular Dominicano
+![Google Image Search](03_GoogleImageSearch_BancoPopular.png)
+
+Se utilizó la búsqueda inversa de imágenes de Google para identificar el uso público del logotipo del Banco Popular Dominicano en la web.
