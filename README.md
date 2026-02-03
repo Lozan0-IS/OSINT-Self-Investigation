@@ -14,3 +14,8 @@ Se utilizó una herramienta del OSINT Framework para analizar información públ
 ![Google Image Search](03_GoogleImageSearch_BancoPopular.png)
 
 Se utilizó la búsqueda inversa de imágenes de Google para identificar el uso público del logotipo del Banco Popular Dominicano en la web.
+
+## TinyEye – Banco Popular Dominicano
+![TinyEye](04_TinyEye_BancoPopular.png)
+
+Se utilizó TinyEye para verificar si el logotipo del Banco Popular Dominicano ha sido reutilizado en otros sitios web mediante búsqueda inversa de imágenes.
