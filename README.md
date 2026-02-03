@@ -19,3 +19,8 @@ Se utilizó la búsqueda inversa de imágenes de Google para identificar el uso 
 ![TinyEye](04_TinyEye_BancoPopular.png)
 
 Se utilizó TinyEye para verificar si el logotipo del Banco Popular Dominicano ha sido reutilizado en otros sitios web mediante búsqueda inversa de imágenes.
+
+## TheHarvester – Banco Popular Dominicano
+![TheHarvester](05_TheHarvester_BancoPopular.png)
+
+Se ejecutó la herramienta TheHarvester en el sistema operativo Kali Linux para analizar dominios asociados al Banco Popular Dominicano utilizando múltiples fuentes OSINT. No se identificaron correos electrónicos, subdominios ni hosts expuestos públicamente, lo cual es consistente con una institución financiera que mantiene una fuerte postura de seguridad y reduce significativamente su huella de información en fuentes abiertas.
